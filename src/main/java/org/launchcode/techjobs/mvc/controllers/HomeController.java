@@ -11,7 +11,8 @@ import java.util.HashMap;
  * Created by LaunchCode
  */
 @Controller
-public class HomeController {
+public class
+HomeController {
 
     @GetMapping(value = "")
     public String index(Model model) {
